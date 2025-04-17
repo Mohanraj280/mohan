@@ -75,7 +75,7 @@ a:hover{
 
 img
 {   
-    border-style: dashed;
+    border-style: none;
 
     border-radius: 50%;
     width:100%;
